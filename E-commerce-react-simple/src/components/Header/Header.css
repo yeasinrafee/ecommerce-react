@@ -1,0 +1,18 @@
+.heading{
+    padding: 20px 90px 112px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.heading img{
+    cursor: pointer;
+}
+
+.link-box a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-right: 30px;
+}
+.link-box a:hover{
+    color: orange;
+}
