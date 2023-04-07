@@ -1,9 +1,30 @@
-.cart{
-    padding: 28px;
-    background: rgba(255, 153, 0, 0.3);
-    position: sticky;
-    top: 0;
+.cart {
+  padding: 28px;
+  background: rgba(255, 153, 0, 0.3);
+  position: sticky;
+  top: 0;
 }
-.cart h2{
-    text-align: center;
+.cart h2 {
+  text-align: center;
+}
+
+.proceed-link {
+  text-decoration: none;
+}
+
+.btn-clear-cart {
+  width: 90%;
+  height: 56px;
+  font-size: 21px;
+  margin: 10px auto;
+  background-color: #ff9090;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
 }
